@@ -1,6 +1,8 @@
-## Sogeking - O rei dos atiradores !!!
+# Sogeking 
 
-## Quem é Sogeking ?
+## O rei dos atiradores !!!
+
+### Quem é Sogeking ?
 
 
 - 4° membro a entrar para o bando dos mugiwaras
