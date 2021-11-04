@@ -1,5 +1,3 @@
-# Currículo Profissional
-
 
 ## Sogeking - O rei dos atiradores !!!
 
@@ -15,4 +13,4 @@
 
 
 ![Image](https://terradaslendas.com/wp-content/uploads/2021/09/soge.jpeg)
-```
+
