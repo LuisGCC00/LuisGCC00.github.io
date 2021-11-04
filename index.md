@@ -1,4 +1,3 @@
-
 ## Sogeking - O rei dos atiradores !!!
 
 ## Quem é Sogeking ?
