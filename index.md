@@ -9,6 +9,6 @@
 - Atirou fogo na bandeira do Governo Mundial
 - Bravo guerreiro do mar
 - Futuro novo yonkou
----
+
 ![](https://terradaslendas.com/wp-content/uploads/2021/09/soge.jpeg)
----
+
