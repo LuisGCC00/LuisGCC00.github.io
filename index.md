@@ -1,8 +1,7 @@
-## Sogeking - O rei dos atiradores !!!
+title: Sogeking
+description: O rei dos atiradores !!!
 
-## **Quem é Sogeking ?**
-
-
+## Quem é Sogeking ?
 - 4° membro a entrar para o bando dos mugiwaras
 - Conhecido atualmente como God Usopp
 - Utiliza o Kabuto como arma
